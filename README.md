@@ -67,14 +67,6 @@ Reset chat with "reset chat".
 
 Exit Jarvis with "Jarvis exit".
 
-Project Structure:
-AI-Voice-Assistant/
-│
-├── main.py # Core assistant logic
-├── .env # API keys
-├── Gemini/ # Stores AI-generated responses (optional)
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
 
 Dependencies:
 
