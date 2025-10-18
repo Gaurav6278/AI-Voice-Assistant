@@ -33,6 +33,7 @@ Installation
 Clone the repository:
 
 git clone https://github.com/Gaurav6278/AI-Voice-Assistant.git
+
 cd AI-Voice-Assistant
 
 Create a virtual environment (optional but recommended):
